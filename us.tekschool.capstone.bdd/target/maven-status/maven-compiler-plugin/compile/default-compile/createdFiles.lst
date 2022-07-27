@@ -1,0 +1,6 @@
+page\objects\DesktopPageObj.class
+page\objects\LaptopNoteBooksPageObject.class
+utilities\Utils.class
+page\objects\RetailPageObject.class
+core\Base.class
+page\objects\HomePageObjectJava.class
